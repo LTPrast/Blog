@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+body header {
+  font-size: xx-large;
+  color: blue;
+}
+body main, body footer {
+  font-size: large;
+  color: blue;
+}
+.row {
+  background-color: grey;
+}
+
+.col-md-6 {
+  background-color: black;
+}
+
+bottom {
+  color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+}
+
+#text {
+  font-weight: bold;
+}
+
+@media (max-width: 500px) {
+  body {
+    background-color: grey;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

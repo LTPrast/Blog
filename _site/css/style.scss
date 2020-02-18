@@ -1,0 +1,57 @@
+$blue: blue;
+$grey: grey;
+$black: black;
+$font-size:  large;
+
+body
+{
+    text-align: center;
+    background-color:$black;
+
+    header
+    {
+        font-size: xx-large;
+        color: $blue;
+    }
+    main
+    {
+        font-size: $font-size;
+        color: $blue;
+    }
+    footer
+    {
+        @extend main;
+    }
+}
+
+.row
+{
+    background-color: $grey;
+}
+
+.col-md-6 
+{
+    background-color: $black;
+}
+  
+bottom
+{
+    color: white;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+}
+
+#text 
+{
+    font-weight: bold;
+}
+
+@media (max-width: 500px) 
+{
+body 
+    {
+    background-color: $grey;
+   }
+}
