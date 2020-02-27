@@ -36,4 +36,10 @@ bottom {
   }
 }
 
+img[alt="jaws"] 
+{ 
+    width:  275px; 
+    height: 200px;
+}
+
 /*# sourceMappingURL=style.css.map */
