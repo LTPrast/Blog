@@ -4,4 +4,3 @@ layout: nazare
 ---
 
 People are only just beginning to wake up to the potential of Nazaré. A finger of deep water points directly at the beach to the north of town and the result is similar to La Nord in Hossegor. Huge, heavy and hollow beach peaks for the brave.  
-![jaws]({{site.baseurl}}/images/nazare.jpg)
